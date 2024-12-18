@@ -4,46 +4,56 @@ using namespace std;
 
 
 // } Driver Code Ends
+
 class Solution {
   public:
-    //function for dfs call
-    void DFS(vector<vector<int>>& adj, int u, vector<bool>& visited, stack<int>& st){
-        visited[u] = true;
-        
-        for(auto &v: adj[u]){
-            if(!visited[v]){
-                DFS(adj, v, visited, st);
+    // Function for BFS call
+    void BFS(vector<vector<int>>& adj, vector<int>& indegree, queue<int>& que, vector<int>& result){
+        while (!que.empty()) {
+            int u = que.front();
+            que.pop();
+
+            result.push_back(u);
+
+            for (auto &v : adj[u]) {
+                indegree[v]--;
+                if (indegree[v] == 0) {
+                    que.push(v);
+                }
             }
         }
-        
-        st.push(u);
     }
-    
+
     // Function to return list containing vertices in Topological order.
     vector<int> topologicalSort(vector<vector<int>>& adj) {
-        // Your code here
         int v = adj.size();
-        
-        vector<bool> visited(v, false);
+        vector<int> indegree(v, 0);
+
+        // Calculate indegree of all vertices
+        for (int u = 0; u < v; u++) {
+            for (auto &node : adj[u]) {
+                indegree[node]++;
+            }
+        }
+
         vector<int> result;
-        stack<int> st;
-        
+        vector<int> tempIndegree = indegree; // Copy of indegree to preserve original values
+
+        queue<int> que;
         for(int u = 0; u<v; u++){
-            if(!visited[u]){
-                DFS(adj, u, visited, st);
+            if(indegree[u] == 0){
+                que.push(u); // push all vetices of indegree Zero
             }
         }
         
-        while(!st.empty()){
-            auto it = st.top();
-            st.pop();
-            
-            result.push_back(it);
-        }
+        
+        
+        BFS(adj, tempIndegree, que, result);
         
         return result;
     }
 };
+
 
 //{ Driver Code Starts.
 
