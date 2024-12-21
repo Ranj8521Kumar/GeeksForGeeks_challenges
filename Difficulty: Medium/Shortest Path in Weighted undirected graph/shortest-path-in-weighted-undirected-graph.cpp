@@ -6,63 +6,66 @@ using namespace std;
 // } Driver Code Ends
 
 class Solution {
-public:
+  public:
     vector<int> shortestPath(int n, int m, vector<vector<int>>& edges) {
-        // Create adjacency list
-        vector<vector<pair<int, int>>> adj(n + 1);
-        for (auto& edge : edges) {
-            adj[edge[0]].push_back({edge[1], edge[2]});
-            adj[edge[1]].push_back({edge[0], edge[2]});
+        // Code here
+        int v = n;
+        vector<vector<pair<int, int>>> adj(v+1);
+
+        for(auto &edge: edges){
+            int u = edge[0];
+            int v = edge[1];
+            int w = edge[2];
+
+            adj[u].push_back({v, w});
+            adj[v].push_back({u, w});
         }
 
-        // Distance array and priority queue
-        vector<int> distance(n + 1, INT_MAX);
-        vector<int> parent(n + 1, -1);
-        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> pq;
-
-        // Start from node 1
+        vector<int> distance(v+1, INT_MAX);
         distance[1] = 0;
+
+        vector<int> parent(v+1, -1);
+
+        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> pq;
         pq.push({0, 1});
 
-        while (!pq.empty()) {
-            pair<int, int> u = pq.top(); // Extract top element
+        while(!pq.empty()){
+            auto u = pq.top();
             pq.pop();
-            int currentDistance = u.first;
-            int currentNode = u.second;
 
-            for (const auto& neighbor : adj[currentNode]) {
-                int nextNode = neighbor.first;
-                int weight = neighbor.second;
-                int newDist = currentDistance + weight;
+            for(auto &v: adj[u.second]){
+                int node = v.first;
+                int weight = v.second;
 
-                if (newDist < distance[nextNode]) {
-                    distance[nextNode] = newDist;
-                    parent[nextNode] = currentNode;
-                    pq.push({newDist, nextNode});
+                int updatedDistance = u.first + weight;
+
+                if(updatedDistance < distance[node]){
+                    distance[node] = updatedDistance;
+                    parent[node] =  u.second;
+                    pq.push({updatedDistance, node});
                 }
             }
         }
 
-        // If no path exists to node n
-        if (distance[n] == INT_MAX) {
-            return {-1};
+        if(distance[v] == INT_MAX){
+            return  {-1};
         }
 
-        // Reconstruct the shortest path
         vector<int> path;
-        int current = n;
-        while (current != -1) {
+        int current = v;
+
+        while(current != -1){
             path.push_back(current);
             current = parent[current];
         }
-        
-        path.push_back(distance[n]);
+
+        path.push_back(distance[v]);
+
         reverse(path.begin(), path.end());
 
         return path;
     }
 };
-
 
 //{ Driver Code Starts.
 int main() {
