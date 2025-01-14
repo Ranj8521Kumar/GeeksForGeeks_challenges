@@ -13,16 +13,10 @@ class Solution {
     // Function to find position of first set bit in the given number.
     int getFirstSetBit(int n) {
         // Your code here
-        int position = 1;
-        
-        while(n != 0){
-            if(n%2 == 1){
-                return position;
-            }else{
-                position++;
+        for(int i = 0; i<31; i++){
+            if((n & (1<<i)) > 0){
+                return i+1;
             }
-            
-            n = n/2;
         }
         
         
