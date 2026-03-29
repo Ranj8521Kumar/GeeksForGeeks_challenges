@@ -97,12 +97,12 @@ Each problem folder contains:
 
 | # | Problem | Language |
 |---|---------|----------|
-| 1 | [Alternative Sorting](<Difficulty:%20Basic/Alternative%20Sorting/>) | C++ |
-| 2 | [Bit Difference](<Difficulty:%20Basic/Bit%20Difference/>) | C++ |
-| 3 | [Is Linked List Length Even](<Difficulty:%20Basic/Is%20Linked%20List%20Length%20Even>) | — |
-| 4 | [Set kth bit](<Difficulty:%20Basic/Set%20kth%20bit/>) | C++ |
-| 5 | [Toggle bits in the given range](<Difficulty:%20Basic/Toggle%20bits%20in%20the%20given%20range/>) | C++ |
-| 6 | [Triplet Family](<Difficulty:%20Basic/Triplet%20Family/>) | C++ |
+| 1 | [Alternative Sorting](<Difficulty: Basic/Alternative Sorting/>) | C++ |
+| 2 | [Bit Difference](<Difficulty: Basic/Bit Difference/>) | C++ |
+| 3 | [Is Linked List Length Even](<Difficulty: Basic/Is Linked List Length Even>) | — |
+| 4 | [Set kth bit](<Difficulty: Basic/Set kth bit/>) | C++ |
+| 5 | [Toggle bits in the given range](<Difficulty: Basic/Toggle bits in the given range/>) | C++ |
+| 6 | [Triplet Family](<Difficulty: Basic/Triplet Family/>) | C++ |
 
 ---
 
@@ -110,53 +110,53 @@ Each problem folder contains:
 
 | # | Problem | Language |
 |---|---------|----------|
-| 1 | [Anagram](<Difficulty:%20Easy/Anagram/>) | C++ |
-| 2 | [BFS of graph](<Difficulty:%20Easy/BFS%20of%20graph/>) | C++ |
-| 3 | [Binary Search](<Difficulty:%20Easy/Binary%20Search/>) | C++ |
-| 4 | [Check for BST](<Difficulty:%20Easy/Check%20for%20BST/>) | C++ |
-| 5 | [Count Pairs whose sum is less than target](<Difficulty:%20Easy/Count%20Pairs%20whose%20sum%20is%20less%20than%20target/>) | C++ |
-| 6 | [Count distinct elements in every window](<Difficulty:%20Easy/Count%20distinct%20elements%20in%20every%20window/>) | C++ |
-| 7 | [DFS of Graph](<Difficulty:%20Easy/DFS%20of%20Graph/>) | C++ |
-| 8 | [Disjoint set (Union-Find)](<Difficulty:%20Easy/Disjoint%20set%20(Union-Find)/>) | C++ |
-| 9 | [Equilibrium Point](<Difficulty:%20Easy/Equilibrium%20Point/>) | C++ |
-| 10 | [Find All Triplets with Zero Sum](<Difficulty:%20Easy/Find%20All%20Triplets%20with%20Zero%20Sum/>) | C++ |
-| 11 | [Find the Sum of Last N nodes of the Linked List](<Difficulty:%20Easy/Find%20the%20Sum%20of%20Last%20N%20nodes%20of%20the%20Linked%20List/>) | C++ |
-| 12 | [Find the first node of loop in linked list](<Difficulty:%20Easy/Find%20the%20first%20node%20of%20loop%20in%20linked%20list/>) | C++ |
-| 13 | [First Set Bit](<Difficulty:%20Easy/First%20Set%20Bit/>) | C++ |
-| 14 | [Graph and Vertices](<Difficulty:%20Easy/Graph%20and%20Vertices/>) | C++ |
-| 15 | [Inorder Traversal](<Difficulty:%20Easy/Inorder%20Traversal/>) | C++ |
-| 16 | [K-th Bit is Set or Not](<Difficulty:%20Easy/K-th%20Bit%20is%20Set%20or%20Not/>) | C++ |
-| 17 | [Kth distance](<Difficulty:%20Easy/Kth%20distance/>) | C++ |
-| 18 | [Largest subarray of 0's and 1's](<Difficulty:%20Easy/Largest%20subarray%20of%200's%20and%201's/>) | C++ |
-| 19 | [Level order traversal](<Difficulty:%20Easy/Level%20order%20traversal/>) | C++ |
-| 20 | [Longest substring with distinct characters](<Difficulty:%20Easy/Longest%20substring%20with%20distinct%20characters/>) | C++ |
-| 21 | [Modify the Array](<Difficulty:%20Easy/Modify%20the%20Array/>) | Python |
-| 22 | [Nearest multiple of 10](<Difficulty:%20Easy/Nearest%20multiple%20of%2010/>) | C++ |
-| 23 | [Non Repeating Character](<Difficulty:%20Easy/Non%20Repeating%20Character/>) | C++ |
-| 24 | [Occurence of an integer in a Linked List](<Difficulty:%20Easy/Occurence%20of%20an%20integer%20in%20a%20Linked%20List/>) | C++ |
-| 25 | [Pair with given sum in a sorted array](<Difficulty:%20Easy/Pair%20with%20given%20sum%20in%20a%20sorted%20array/>) | C++ |
-| 26 | [Pairs with difference k](<Difficulty:%20Easy/Pairs%20with%20difference%20k/>) | C++ |
-| 27 | [Power of 2](<Difficulty:%20Easy/Power%20of%202/>) | C++ |
-| 28 | [Print adjacency list](<Difficulty:%20Easy/Print%20adjacency%20list/>) | C++ |
-| 29 | [Product array puzzle](<Difficulty:%20Easy/Product%20array%20puzzle/>) | C++ |
-| 30 | [Remove duplicates in array](<Difficulty:%20Easy/Remove%20duplicates%20in%20array/>) | C++ |
-| 31 | [Reverse a linked list](<Difficulty:%20Easy/Reverse%20a%20linked%20list/>) | C++ |
-| 32 | [Rightmost different bit](<Difficulty:%20Easy/Rightmost%20different%20bit/>) | C++ |
-| 33 | [Rotate by 90 degree](<Difficulty:%20Easy/Rotate%20by%2090%20degree/>) | C++ |
-| 34 | [Search in a Row-Column sorted matrix](<Difficulty:%20Easy/Search%20in%20a%20Row-Column%20sorted%20matrix/>) | C++ |
-| 35 | [Single Number](<Difficulty:%20Easy/Single%20Number/>) | C++ |
-| 36 | [Sort a k sorted doubly linked list](<Difficulty:%20Easy/Sort%20a%20k%20sorted%20doubly%20linked%20list/>) | C++ |
-| 37 | [Sorted and Rotated Minimum](<Difficulty:%20Easy/Sorted%20and%20Rotated%20Minimum/>) | C++ |
-| 38 | [Split Linked List Alternatingly](<Difficulty:%20Easy/Split%20Linked%20List%20Alternatingly/>) | C++ |
-| 39 | [Split the Array](<Difficulty:%20Easy/Split%20the%20Array/>) | C++ |
-| 40 | [Stock Buy and Sell – Max one Transaction Allowed](<Difficulty:%20Easy/Stock%20Buy%20and%20Sell%20–%20Max%20one%20Transaction%20Allowed/>) | C++ |
-| 41 | [Strings Rotations of Each Other](<Difficulty:%20Easy/Strings%20Rotations%20of%20Each%20Other/>) | C++ |
-| 42 | [Sum Pair closest to target](<Difficulty:%20Easy/Sum%20Pair%20closest%20to%20target/>) | C++ |
-| 43 | [Swap and Maximize](<Difficulty:%20Easy/Swap%20and%20Maximize/>) | C++ |
-| 44 | [Two Mirror Trees](<Difficulty:%20Easy/Two%20Mirror%20Trees/>) | C++ |
-| 45 | [Two Sum - Pair with Given Sum](<Difficulty:%20Easy/Two%20Sum%20-%20Pair%20with%20Given%20Sum/>) | C++ |
-| 46 | [Two Swaps](<Difficulty:%20Easy/Two%20Swaps/>) | C++ |
-| 47 | [Union of Arrays with Duplicates](<Difficulty:%20Easy/Union%20of%20Arrays%20with%20Duplicates/>) | C++ |
+| 1 | [Anagram](<Difficulty: Easy/Anagram/>) | C++ |
+| 2 | [BFS of graph](<Difficulty: Easy/BFS of graph/>) | C++ |
+| 3 | [Binary Search](<Difficulty: Easy/Binary Search/>) | C++ |
+| 4 | [Check for BST](<Difficulty: Easy/Check for BST/>) | C++ |
+| 5 | [Count Pairs whose sum is less than target](<Difficulty: Easy/Count Pairs whose sum is less than target/>) | C++ |
+| 6 | [Count distinct elements in every window](<Difficulty: Easy/Count distinct elements in every window/>) | C++ |
+| 7 | [DFS of Graph](<Difficulty: Easy/DFS of Graph/>) | C++ |
+| 8 | [Disjoint set (Union-Find)](<Difficulty: Easy/Disjoint set (Union-Find)/>) | C++ |
+| 9 | [Equilibrium Point](<Difficulty: Easy/Equilibrium Point/>) | C++ |
+| 10 | [Find All Triplets with Zero Sum](<Difficulty: Easy/Find All Triplets with Zero Sum/>) | C++ |
+| 11 | [Find the Sum of Last N nodes of the Linked List](<Difficulty: Easy/Find the Sum of Last N nodes of the Linked List/>) | C++ |
+| 12 | [Find the first node of loop in linked list](<Difficulty: Easy/Find the first node of loop in linked list/>) | C++ |
+| 13 | [First Set Bit](<Difficulty: Easy/First Set Bit/>) | C++ |
+| 14 | [Graph and Vertices](<Difficulty: Easy/Graph and Vertices/>) | C++ |
+| 15 | [Inorder Traversal](<Difficulty: Easy/Inorder Traversal/>) | C++ |
+| 16 | [K-th Bit is Set or Not](<Difficulty: Easy/K-th Bit is Set or Not/>) | C++ |
+| 17 | [Kth distance](<Difficulty: Easy/Kth distance/>) | C++ |
+| 18 | [Largest subarray of 0's and 1's](<Difficulty: Easy/Largest subarray of 0's and 1's/>) | C++ |
+| 19 | [Level order traversal](<Difficulty: Easy/Level order traversal/>) | C++ |
+| 20 | [Longest substring with distinct characters](<Difficulty: Easy/Longest substring with distinct characters/>) | C++ |
+| 21 | [Modify the Array](<Difficulty: Easy/Modify the Array/>) | Python |
+| 22 | [Nearest multiple of 10](<Difficulty: Easy/Nearest multiple of 10/>) | C++ |
+| 23 | [Non Repeating Character](<Difficulty: Easy/Non Repeating Character/>) | C++ |
+| 24 | [Occurence of an integer in a Linked List](<Difficulty: Easy/Occurence of an integer in a Linked List/>) | C++ |
+| 25 | [Pair with given sum in a sorted array](<Difficulty: Easy/Pair with given sum in a sorted array/>) | C++ |
+| 26 | [Pairs with difference k](<Difficulty: Easy/Pairs with difference k/>) | C++ |
+| 27 | [Power of 2](<Difficulty: Easy/Power of 2/>) | C++ |
+| 28 | [Print adjacency list](<Difficulty: Easy/Print adjacency list/>) | C++ |
+| 29 | [Product array puzzle](<Difficulty: Easy/Product array puzzle/>) | C++ |
+| 30 | [Remove duplicates in array](<Difficulty: Easy/Remove duplicates in array/>) | C++ |
+| 31 | [Reverse a linked list](<Difficulty: Easy/Reverse a linked list/>) | C++ |
+| 32 | [Rightmost different bit](<Difficulty: Easy/Rightmost different bit/>) | C++ |
+| 33 | [Rotate by 90 degree](<Difficulty: Easy/Rotate by 90 degree/>) | C++ |
+| 34 | [Search in a Row-Column sorted matrix](<Difficulty: Easy/Search in a Row-Column sorted matrix/>) | C++ |
+| 35 | [Single Number](<Difficulty: Easy/Single Number/>) | C++ |
+| 36 | [Sort a k sorted doubly linked list](<Difficulty: Easy/Sort a k sorted doubly linked list/>) | C++ |
+| 37 | [Sorted and Rotated Minimum](<Difficulty: Easy/Sorted and Rotated Minimum/>) | C++ |
+| 38 | [Split Linked List Alternatingly](<Difficulty: Easy/Split Linked List Alternatingly/>) | C++ |
+| 39 | [Split the Array](<Difficulty: Easy/Split the Array/>) | C++ |
+| 40 | [Stock Buy and Sell – Max one Transaction Allowed](<Difficulty: Easy/Stock Buy and Sell – Max one Transaction Allowed/>) | C++ |
+| 41 | [Strings Rotations of Each Other](<Difficulty: Easy/Strings Rotations of Each Other/>) | C++ |
+| 42 | [Sum Pair closest to target](<Difficulty: Easy/Sum Pair closest to target/>) | C++ |
+| 43 | [Swap and Maximize](<Difficulty: Easy/Swap and Maximize/>) | C++ |
+| 44 | [Two Mirror Trees](<Difficulty: Easy/Two Mirror Trees/>) | C++ |
+| 45 | [Two Sum - Pair with Given Sum](<Difficulty: Easy/Two Sum - Pair with Given Sum/>) | C++ |
+| 46 | [Two Swaps](<Difficulty: Easy/Two Swaps/>) | C++ |
+| 47 | [Union of Arrays with Duplicates](<Difficulty: Easy/Union of Arrays with Duplicates/>) | C++ |
 
 ---
 
@@ -164,81 +164,81 @@ Each problem folder contains:
 
 | # | Problem | Language |
 |---|---------|----------|
-| 1 | [Add Number Linked Lists](<Difficulty:%20Medium/Add%20Number%20Linked%20Lists/>) | C++ |
-| 2 | [Aggressive Cows](<Difficulty:%20Medium/Aggressive%20Cows/>) | C++ |
-| 3 | [Allocate Minimum Pages](<Difficulty:%20Medium/Allocate%20Minimum%20Pages/>) | C++ |
-| 4 | [Bellman-Ford](<Difficulty:%20Medium/Bellman-Ford/>) | C++ |
-| 5 | [Bipartite Graph](<Difficulty:%20Medium/Bipartite%20Graph/>) | C++ |
-| 6 | [Construct Tree from Inorder & Preorder](<Difficulty:%20Medium/Construct%20Tree%20from%20Inorder%20%26%20Preorder/>) | C++ |
-| 7 | [Container With Most Water](<Difficulty:%20Medium/Container%20With%20Most%20Water/>) | C++ |
-| 8 | [Count Inversions](<Difficulty:%20Medium/Count%20Inversions/>) | C++ |
-| 9 | [Count Subarrays with given XOR](<Difficulty:%20Medium/Count%20Subarrays%20with%20given%20XOR/>) | C++ |
-| 10 | [Count all triplets with given sum in sorted array](<Difficulty:%20Medium/Count%20all%20triplets%20with%20given%20sum%20in%20sorted%20array/>) | C++ |
-| 11 | [Count the number of possible triangles](<Difficulty:%20Medium/Count%20the%20number%20of%20possible%20triangles/>) | C++ |
-| 12 | [Cycle in a Directed Graph](<Difficulty:%20Medium/Cycle%20in%20a%20Directed%20Graph/>) | C++ |
-| 13 | [Decode the string](<Difficulty:%20Medium/Decode%20the%20string/>) | C++ |
-| 14 | [Detect Cycle using DSU](<Difficulty:%20Medium/Detect%20Cycle%20using%20DSU/>) | C++ |
-| 15 | [Detect Loop in linked list](<Difficulty:%20Medium/Detect%20Loop%20in%20linked%20list/>) | C++ |
-| 16 | [Diameter of a Binary Tree](<Difficulty:%20Medium/Diameter%20of%20a%20Binary%20Tree/>) | C++ |
-| 17 | [Dijkstra Algorithm](<Difficulty:%20Medium/Dijkstra%20Algorithm/>) | C++ |
-| 18 | [Directed Graph Cycle](<Difficulty:%20Medium/Directed%20Graph%20Cycle/>) | C++ |
-| 19 | [Euler circuit and Path](<Difficulty:%20Medium/Euler%20circuit%20and%20Path/>) | C++ |
-| 20 | [Evaluation of Postfix Expression](<Difficulty:%20Medium/Evaluation%20of%20Postfix%20Expression/>) | C++ |
-| 21 | [Find H-Index](<Difficulty:%20Medium/Find%20H-Index/>) | C++ |
-| 22 | [Flatten BST to sorted list](<Difficulty:%20Medium/Flatten%20BST%20to%20sorted%20list/>) | C++ |
-| 23 | [Floyd Warshall](<Difficulty:%20Medium/Floyd%20Warshall/>) | C++ |
-| 24 | [Implement Atoi](<Difficulty:%20Medium/Implement%20Atoi/>) | C++ |
-| 25 | [Implement Pow](<Difficulty:%20Medium/Implement%20Pow/>) | C++ |
-| 26 | [Indexes of Subarray Sum](<Difficulty:%20Medium/Indexes%20of%20Subarray%20Sum/>) | C++ |
-| 27 | [Insert in Sorted way in a Sorted DLL](<Difficulty:%20Medium/Insert%20in%20Sorted%20way%20in%20a%20Sorted%20DLL/>) | C++ |
-| 28 | [K Sized Subarray Maximum](<Difficulty:%20Medium/K%20Sized%20Subarray%20Maximum/>) | C++ |
-| 29 | [K-th element of two Arrays](<Difficulty:%20Medium/K-th%20element%20of%20two%20Arrays/>) | C++ |
-| 30 | [Kadane's Algorithm](<Difficulty:%20Medium/Kadane's%20Algorithm/>) | C++ |
-| 31 | [Lexicographically Largest String After K Deletions](<Difficulty:%20Medium/Lexicographically%20Largest%20String%20After%20K%20Deletions/>) | C++ |
-| 32 | [Longest Bounded-Difference Subarray](<Difficulty:%20Medium/Longest%20Bounded-Difference%20Subarray/>) | C++ |
-| 33 | [Longest Common Subsequence](<Difficulty:%20Medium/Longest%20Common%20Subsequence/>) | C++ |
-| 34 | [Longest Increasing Subsequence](<Difficulty:%20Medium/Longest%20Increasing%20Subsequence/>) | C++ |
-| 35 | [Longest String Chain](<Difficulty:%20Medium/Longest%20String%20Chain/>) | C++ |
-| 36 | [Longest Subarray with Sum K](<Difficulty:%20Medium/Longest%20Subarray%20with%20Sum%20K/>) | C++ |
-| 37 | [Maximum Product Subarray](<Difficulty:%20Medium/Maximum%20Product%20Subarray/>) | C++ |
-| 38 | [Maximum path sum from any node](<Difficulty:%20Medium/Maximum%20path%20sum%20from%20any%20node/>) | C++ |
-| 39 | [Merge Sort](<Difficulty:%20Medium/Merge%20Sort/>) | C++ |
-| 40 | [Merge two sorted linked lists](<Difficulty:%20Medium/Merge%20two%20sorted%20linked%20lists/>) | C++ |
-| 41 | [Minimize the Heights I](<Difficulty:%20Medium/Minimize%20the%20Heights%20I/>) | C++ |
-| 42 | [Minimum Platforms](<Difficulty:%20Medium/Minimum%20Platforms/>) | C++ |
-| 43 | [Minimum Spanning Tree](<Difficulty:%20Medium/Minimum%20Spanning%20Tree/>) | C++ |
-| 44 | [Minimum Swaps to Sort](<Difficulty:%20Medium/Minimum%20Swaps%20to%20Sort/>) | C++ |
-| 45 | [Next Greater Element](<Difficulty:%20Medium/Next%20Greater%20Element/>) | C++ |
-| 46 | [Next Smaller Element](<Difficulty:%20Medium/Next%20Smaller%20Element/>) | C++ |
-| 47 | [Permutations of a String](<Difficulty:%20Medium/Permutations%20of%20a%20String/>) | C++ |
-| 48 | [Predecessor and Successor](<Difficulty:%20Medium/Predecessor%20and%20Successor/>) | C++ |
-| 49 | [Previous Greater Element](<Difficulty:%20Medium/Previous%20Greater%20Element/>) | C++ |
-| 50 | [Previous Smaller Element](<Difficulty:%20Medium/Previous%20Smaller%20Element/>) | C++ |
-| 51 | [Print Anagrams Together](<Difficulty:%20Medium/Print%20Anagrams%20Together/>) | C++ |
-| 52 | [Quick Sort](<Difficulty:%20Medium/Quick%20Sort/>) | C++ |
-| 53 | [Quick Sort on Linked List](<Difficulty:%20Medium/Quick%20Sort%20on%20Linked%20List/>) | C++ |
-| 54 | [Rat in a Maze Problem - I](<Difficulty:%20Medium/Rat%20in%20a%20Maze%20Problem%20-%20I/>) | C++ |
-| 55 | [Remove loop in Linked List](<Difficulty:%20Medium/Remove%20loop%20in%20Linked%20List/>) | C++ |
-| 56 | [Reverse a Stack](<Difficulty:%20Medium/Reverse%20a%20Stack/>) | C++ |
-| 57 | [Reverse alternate levels of a perfect binary tree](<Difficulty:%20Medium/Reverse%20alternate%20levels%20of%20a%20perfect%20binary%20tree/>) | C++ |
-| 58 | [Rotate a Linked List](<Difficulty:%20Medium/Rotate%20a%20Linked%20List/>) | C++ |
-| 59 | [Search Pattern (KMP-Algorithm)](<Difficulty:%20Medium/Search%20Pattern%20(KMP-Algorithm)/>) | C++ |
-| 60 | [Serialize and deserialize a binary tree](<Difficulty:%20Medium/Serialize%20and%20deserialize%20a%20binary%20tree/>) | C++ |
-| 61 | [Shortest Path in Undirected](<Difficulty:%20Medium/Shortest%20Path%20in%20Undirected/>) | C++ |
-| 62 | [Shortest Path in Weighted undirected graph](<Difficulty:%20Medium/Shortest%20Path%20in%20Weighted%20undirected%20graph/>) | C++ |
-| 63 | [Smallest Positive Missing Number](<Difficulty:%20Medium/Smallest%20Positive%20Missing%20Number/>) | C++ |
-| 64 | [Spirally traversing a matrix](<Difficulty:%20Medium/Spirally%20traversing%20a%20matrix/>) | C++ |
-| 65 | [Stock span problem](<Difficulty:%20Medium/Stock%20span%20problem/>) | C++ |
-| 66 | [Strongly Connected](<Difficulty:%20Medium/Strongly%20Connected/>) | C++ |
-| 67 | [Subarray range with given sum](<Difficulty:%20Medium/Subarray%20range%20with%20given%20sum/>) | C++ |
-| 68 | [Subarrays with sum K](<Difficulty:%20Medium/Subarrays%20with%20sum%20K/>) | C++ |
-| 69 | [Top View of Binary Tree](<Difficulty:%20Medium/Top%20View%20of%20Binary%20Tree/>) | C++ |
-| 70 | [Topological sort](<Difficulty:%20Medium/Topological%20sort/>) | C++ |
-| 71 | [Tower Of Hanoi](<Difficulty:%20Medium/Tower%20Of%20Hanoi/>) | C++ |
-| 72 | [Tree Boundary Traversal](<Difficulty:%20Medium/Tree%20Boundary%20Traversal/>) | C++ |
-| 73 | [Undirected Graph Cycle](<Difficulty:%20Medium/Undirected%20Graph%20Cycle/>) | C++ |
-| 74 | [Word Search](<Difficulty:%20Medium/Word%20Search/>) | Python |
-| 75 | [k-th Smallest in BST](<Difficulty:%20Medium/k-th%20Smallest%20in%20BST/>) | C++ |
+| 1 | [Add Number Linked Lists](<Difficulty: Medium/Add Number Linked Lists/>) | C++ |
+| 2 | [Aggressive Cows](<Difficulty: Medium/Aggressive Cows/>) | C++ |
+| 3 | [Allocate Minimum Pages](<Difficulty: Medium/Allocate Minimum Pages/>) | C++ |
+| 4 | [Bellman-Ford](<Difficulty: Medium/Bellman-Ford/>) | C++ |
+| 5 | [Bipartite Graph](<Difficulty: Medium/Bipartite Graph/>) | C++ |
+| 6 | [Construct Tree from Inorder & Preorder](<Difficulty: Medium/Construct Tree from Inorder %26 Preorder/>) | C++ |
+| 7 | [Container With Most Water](<Difficulty: Medium/Container With Most Water/>) | C++ |
+| 8 | [Count Inversions](<Difficulty: Medium/Count Inversions/>) | C++ |
+| 9 | [Count Subarrays with given XOR](<Difficulty: Medium/Count Subarrays with given XOR/>) | C++ |
+| 10 | [Count all triplets with given sum in sorted array](<Difficulty: Medium/Count all triplets with given sum in sorted array/>) | C++ |
+| 11 | [Count the number of possible triangles](<Difficulty: Medium/Count the number of possible triangles/>) | C++ |
+| 12 | [Cycle in a Directed Graph](<Difficulty: Medium/Cycle in a Directed Graph/>) | C++ |
+| 13 | [Decode the string](<Difficulty: Medium/Decode the string/>) | C++ |
+| 14 | [Detect Cycle using DSU](<Difficulty: Medium/Detect Cycle using DSU/>) | C++ |
+| 15 | [Detect Loop in linked list](<Difficulty: Medium/Detect Loop in linked list/>) | C++ |
+| 16 | [Diameter of a Binary Tree](<Difficulty: Medium/Diameter of a Binary Tree/>) | C++ |
+| 17 | [Dijkstra Algorithm](<Difficulty: Medium/Dijkstra Algorithm/>) | C++ |
+| 18 | [Directed Graph Cycle](<Difficulty: Medium/Directed Graph Cycle/>) | C++ |
+| 19 | [Euler circuit and Path](<Difficulty: Medium/Euler circuit and Path/>) | C++ |
+| 20 | [Evaluation of Postfix Expression](<Difficulty: Medium/Evaluation of Postfix Expression/>) | C++ |
+| 21 | [Find H-Index](<Difficulty: Medium/Find H-Index/>) | C++ |
+| 22 | [Flatten BST to sorted list](<Difficulty: Medium/Flatten BST to sorted list/>) | C++ |
+| 23 | [Floyd Warshall](<Difficulty: Medium/Floyd Warshall/>) | C++ |
+| 24 | [Implement Atoi](<Difficulty: Medium/Implement Atoi/>) | C++ |
+| 25 | [Implement Pow](<Difficulty: Medium/Implement Pow/>) | C++ |
+| 26 | [Indexes of Subarray Sum](<Difficulty: Medium/Indexes of Subarray Sum/>) | C++ |
+| 27 | [Insert in Sorted way in a Sorted DLL](<Difficulty: Medium/Insert in Sorted way in a Sorted DLL/>) | C++ |
+| 28 | [K Sized Subarray Maximum](<Difficulty: Medium/K Sized Subarray Maximum/>) | C++ |
+| 29 | [K-th element of two Arrays](<Difficulty: Medium/K-th element of two Arrays/>) | C++ |
+| 30 | [Kadane's Algorithm](<Difficulty: Medium/Kadane's Algorithm/>) | C++ |
+| 31 | [Lexicographically Largest String After K Deletions](<Difficulty: Medium/Lexicographically Largest String After K Deletions/>) | C++ |
+| 32 | [Longest Bounded-Difference Subarray](<Difficulty: Medium/Longest Bounded-Difference Subarray/>) | C++ |
+| 33 | [Longest Common Subsequence](<Difficulty: Medium/Longest Common Subsequence/>) | C++ |
+| 34 | [Longest Increasing Subsequence](<Difficulty: Medium/Longest Increasing Subsequence/>) | C++ |
+| 35 | [Longest String Chain](<Difficulty: Medium/Longest String Chain/>) | C++ |
+| 36 | [Longest Subarray with Sum K](<Difficulty: Medium/Longest Subarray with Sum K/>) | C++ |
+| 37 | [Maximum Product Subarray](<Difficulty: Medium/Maximum Product Subarray/>) | C++ |
+| 38 | [Maximum path sum from any node](<Difficulty: Medium/Maximum path sum from any node/>) | C++ |
+| 39 | [Merge Sort](<Difficulty: Medium/Merge Sort/>) | C++ |
+| 40 | [Merge two sorted linked lists](<Difficulty: Medium/Merge two sorted linked lists/>) | C++ |
+| 41 | [Minimize the Heights I](<Difficulty: Medium/Minimize the Heights I/>) | C++ |
+| 42 | [Minimum Platforms](<Difficulty: Medium/Minimum Platforms/>) | C++ |
+| 43 | [Minimum Spanning Tree](<Difficulty: Medium/Minimum Spanning Tree/>) | C++ |
+| 44 | [Minimum Swaps to Sort](<Difficulty: Medium/Minimum Swaps to Sort/>) | C++ |
+| 45 | [Next Greater Element](<Difficulty: Medium/Next Greater Element/>) | C++ |
+| 46 | [Next Smaller Element](<Difficulty: Medium/Next Smaller Element/>) | C++ |
+| 47 | [Permutations of a String](<Difficulty: Medium/Permutations of a String/>) | C++ |
+| 48 | [Predecessor and Successor](<Difficulty: Medium/Predecessor and Successor/>) | C++ |
+| 49 | [Previous Greater Element](<Difficulty: Medium/Previous Greater Element/>) | C++ |
+| 50 | [Previous Smaller Element](<Difficulty: Medium/Previous Smaller Element/>) | C++ |
+| 51 | [Print Anagrams Together](<Difficulty: Medium/Print Anagrams Together/>) | C++ |
+| 52 | [Quick Sort](<Difficulty: Medium/Quick Sort/>) | C++ |
+| 53 | [Quick Sort on Linked List](<Difficulty: Medium/Quick Sort on Linked List/>) | C++ |
+| 54 | [Rat in a Maze Problem - I](<Difficulty: Medium/Rat in a Maze Problem - I/>) | C++ |
+| 55 | [Remove loop in Linked List](<Difficulty: Medium/Remove loop in Linked List/>) | C++ |
+| 56 | [Reverse a Stack](<Difficulty: Medium/Reverse a Stack/>) | C++ |
+| 57 | [Reverse alternate levels of a perfect binary tree](<Difficulty: Medium/Reverse alternate levels of a perfect binary tree/>) | C++ |
+| 58 | [Rotate a Linked List](<Difficulty: Medium/Rotate a Linked List/>) | C++ |
+| 59 | [Search Pattern (KMP-Algorithm)](<Difficulty: Medium/Search Pattern (KMP-Algorithm)/>) | C++ |
+| 60 | [Serialize and deserialize a binary tree](<Difficulty: Medium/Serialize and deserialize a binary tree/>) | C++ |
+| 61 | [Shortest Path in Undirected](<Difficulty: Medium/Shortest Path in Undirected/>) | C++ |
+| 62 | [Shortest Path in Weighted undirected graph](<Difficulty: Medium/Shortest Path in Weighted undirected graph/>) | C++ |
+| 63 | [Smallest Positive Missing Number](<Difficulty: Medium/Smallest Positive Missing Number/>) | C++ |
+| 64 | [Spirally traversing a matrix](<Difficulty: Medium/Spirally traversing a matrix/>) | C++ |
+| 65 | [Stock span problem](<Difficulty: Medium/Stock span problem/>) | C++ |
+| 66 | [Strongly Connected](<Difficulty: Medium/Strongly Connected/>) | C++ |
+| 67 | [Subarray range with given sum](<Difficulty: Medium/Subarray range with given sum/>) | C++ |
+| 68 | [Subarrays with sum K](<Difficulty: Medium/Subarrays with sum K/>) | C++ |
+| 69 | [Top View of Binary Tree](<Difficulty: Medium/Top View of Binary Tree/>) | C++ |
+| 70 | [Topological sort](<Difficulty: Medium/Topological sort/>) | C++ |
+| 71 | [Tower Of Hanoi](<Difficulty: Medium/Tower Of Hanoi/>) | C++ |
+| 72 | [Tree Boundary Traversal](<Difficulty: Medium/Tree Boundary Traversal/>) | C++ |
+| 73 | [Undirected Graph Cycle](<Difficulty: Medium/Undirected Graph Cycle/>) | C++ |
+| 74 | [Word Search](<Difficulty: Medium/Word Search/>) | Python |
+| 75 | [k-th Smallest in BST](<Difficulty: Medium/k-th Smallest in BST/>) | C++ |
 
 ---
 
@@ -246,19 +246,19 @@ Each problem folder contains:
 
 | # | Problem | Language |
 |---|---------|----------|
-| 1 | [Clone List with Next and Random](<Difficulty:%20Hard/Clone%20List%20with%20Next%20and%20Random/>) | C++ |
-| 2 | [Find median in a stream](<Difficulty:%20Hard/Find%20median%20in%20a%20stream/>) | C++ |
-| 3 | [Histogram Max Rectangular Area](<Difficulty:%20Hard/Histogram%20Max%20Rectangular%20Area/>) | C++ |
-| 4 | [LRU Cache](<Difficulty:%20Hard/LRU%20Cache/>) | Python |
-| 5 | [Linked List Group Reverse](<Difficulty:%20Hard/Linked%20List%20Group%20Reverse/>) | C++ |
-| 6 | [Matrix Chain Multiplication](<Difficulty:%20Hard/Matrix%20Chain%20Multiplication/>) | C++ |
-| 7 | [Max Circular Subarray Sum](<Difficulty:%20Hard/Max%20Circular%20Subarray%20Sum/>) | C++ |
-| 8 | [Maximum of minimum for every window size](<Difficulty:%20Hard/Maximum%20of%20minimum%20for%20every%20window%20size/>) | C++ |
-| 9 | [Merge Without Extra Space](<Difficulty:%20Hard/Merge%20Without%20Extra%20Space/>) | C++ |
-| 10 | [N-Queen Problem](<Difficulty:%20Hard/N-Queen%20Problem/>) | C++ |
-| 11 | [Solve the Sudoku](<Difficulty:%20Hard/Solve%20the%20Sudoku/>) | C++ |
-| 12 | [Stock Buy and Sell – Multiple Transaction Allowed](<Difficulty:%20Hard/Stock%20Buy%20and%20Sell%20–%20Multiple%20Transaction%20Allowed/>) | C++ |
-| 13 | [Sub-arrays with equal number of occurences](<Difficulty:%20Hard/Sub-arrays%20with%20equal%20number%20of%20occurences/>) | C++ |
+| 1 | [Clone List with Next and Random](<Difficulty: Hard/Clone List with Next and Random/>) | C++ |
+| 2 | [Find median in a stream](<Difficulty: Hard/Find median in a stream/>) | C++ |
+| 3 | [Histogram Max Rectangular Area](<Difficulty: Hard/Histogram Max Rectangular Area/>) | C++ |
+| 4 | [LRU Cache](<Difficulty: Hard/LRU Cache/>) | Python |
+| 5 | [Linked List Group Reverse](<Difficulty: Hard/Linked List Group Reverse/>) | C++ |
+| 6 | [Matrix Chain Multiplication](<Difficulty: Hard/Matrix Chain Multiplication/>) | C++ |
+| 7 | [Max Circular Subarray Sum](<Difficulty: Hard/Max Circular Subarray Sum/>) | C++ |
+| 8 | [Maximum of minimum for every window size](<Difficulty: Hard/Maximum of minimum for every window size/>) | C++ |
+| 9 | [Merge Without Extra Space](<Difficulty: Hard/Merge Without Extra Space/>) | C++ |
+| 10 | [N-Queen Problem](<Difficulty: Hard/N-Queen Problem/>) | C++ |
+| 11 | [Solve the Sudoku](<Difficulty: Hard/Solve the Sudoku/>) | C++ |
+| 12 | [Stock Buy and Sell – Multiple Transaction Allowed](<Difficulty: Hard/Stock Buy and Sell – Multiple Transaction Allowed/>) | C++ |
+| 13 | [Sub-arrays with equal number of occurences](<Difficulty: Hard/Sub-arrays with equal number of occurences/>) | C++ |
 
 ---
 
