@@ -169,7 +169,7 @@ Each problem folder contains:
 | 3 | [Allocate Minimum Pages](<Difficulty: Medium/Allocate Minimum Pages/>) | C++ |
 | 4 | [Bellman-Ford](<Difficulty: Medium/Bellman-Ford/>) | C++ |
 | 5 | [Bipartite Graph](<Difficulty: Medium/Bipartite Graph/>) | C++ |
-| 6 | [Construct Tree from Inorder & Preorder](<Difficulty: Medium/Construct Tree from Inorder %26 Preorder/>) | C++ |
+| 6 | [Construct Tree from Inorder & Preorder](<Difficulty: Medium/Construct Tree from Inorder & Preorder/>) | C++ |
 | 7 | [Container With Most Water](<Difficulty: Medium/Container With Most Water/>) | C++ |
 | 8 | [Count Inversions](<Difficulty: Medium/Count Inversions/>) | C++ |
 | 9 | [Count Subarrays with given XOR](<Difficulty: Medium/Count Subarrays with given XOR/>) | C++ |
